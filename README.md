@@ -1,7 +1,7 @@
 # Breast-cancer-detection
 The project aim to predict whether the patient has breast cancer or not i.e malignant tumor or benign tumor
 # Project steps
-# 1. Data collection and Data Ananlysis
+# 1. Data collection and Data Analysis
 * Data is collected from the sklearn datasets in the form of numpy array.
 * Explore the datasets information-the data,the target,features name.
 # 2. convert the array into a Datasets
